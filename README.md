@@ -1,2 +1,1 @@
-My first readme
-i love man u
+man u is mad
