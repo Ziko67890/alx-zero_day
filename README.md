@@ -1,1 +1,2 @@
-man u is mad
+My first readme
+i just edited my readme file
